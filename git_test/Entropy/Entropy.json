@@ -3,11 +3,13 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Screen1": 3
+    "Button1": 4,
+    "Screen1": 3,
+    "TextInput1": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/15/2022 12:38:56",
+  "HeaderLastSavedDateTimeUTC": "08/15/2022 12:40:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -19,10 +21,15 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 0,
+    "text": 1
+  },
   "PublishOrderIndices": {
     "App": 0,
-    "Screen1": 0
+    "Button1": 0,
+    "Screen1": 0,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
