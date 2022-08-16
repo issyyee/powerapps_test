@@ -1,0 +1,27 @@
+Screen1 As screen:
+    Fill: =RGBA(253, 222, 207, 1)
+
+    Button1 As button:
+        Text: ="ボタン"
+        X: =447
+        Y: =123
+        ZIndex: =1
+
+    TextInput1 As text:
+        Default: ="テキスト入力"
+        X: =104
+        Y: =123
+        ZIndex: =2
+
+    Button2 As button:
+        Text: ="ボタン"
+        X: =447
+        Y: =220
+        ZIndex: =3
+
+    Icon1 As icon.Check:
+        Icon: =Icon.Check
+        X: =144
+        Y: =438
+        ZIndex: =4
+
