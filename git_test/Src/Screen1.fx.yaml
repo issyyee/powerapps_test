@@ -13,3 +13,15 @@ Screen1 As screen:
         Y: =123
         ZIndex: =2
 
+    Button2 As button:
+        Text: ="ボタン"
+        X: =447
+        Y: =220
+        ZIndex: =3
+
+    Icon1 As icon.Check:
+        Icon: =Icon.Check
+        X: =144
+        Y: =438
+        ZIndex: =4
+

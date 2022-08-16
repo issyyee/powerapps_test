@@ -4,7 +4,9 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 4,
+    "Button2": 12,
     "HeaderContainer1": 10,
+    "Icon1": 13,
     "MainSectionContainer1": 11,
     "RightSideContainer1": 9,
     "Screen1": 3,
@@ -15,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/16/2022 00:50:43",
+  "HeaderLastSavedDateTimeUTC": "08/16/2022 00:51:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -29,13 +31,16 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "groupContainer": 2,
+    "groupContainer": 3,
+    "icon": 2,
     "text": 1
   },
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Button2": 0,
     "HeaderContainer1": 0,
+    "Icon1": 0,
     "MainSectionContainer1": 0,
     "RightSideContainer1": 0,
     "Screen1": 0,
